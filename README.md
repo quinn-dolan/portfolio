@@ -12,5 +12,5 @@ Associate Director, Data Analytics @ Modifly
 
 ### Projects
 - Spotify EDA & Data Visualization
-- Python Script for Email List Cleaning & Merging
+- Python Script to Clean and Merge Large Email Lists
 - Comprehensive Digital Audit Presentation
