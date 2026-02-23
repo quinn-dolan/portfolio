@@ -1,7 +1,7 @@
 # Data Analyst, Cyclist, Coffee Enthusiast
 
 ### Skills
-- SQL, Python Pandas, Excel, BigQuery, Tableau, Looker, Google Analytics, Claude
+- SQL, Python Pandas, Microsoft Excel, BigQuery, Tableau, Looker, Google Analytics, Claude
 
 ### Education
 University of Notre Dame, Economics & Spanish
@@ -12,5 +12,5 @@ Associate Director, Data Analytics @ Modifly
 
 ### Projects
 - Spotify EDA & Data Visualization
-- Comprehensive Digital Audit
-- Python Automation for Email List Cleaning & Merging
+- Python Script for Email List Cleaning & Merging
+- Comprehensive Digital Audit Presentation
