@@ -1,7 +1,7 @@
 # Data Analyst, Cyclist, Coffee Enthusiast
 
 ### 📊 Skills
-- SQL, Python (Pandas), BigQuery, Postgres, Tableau, Looker, Microsoft Excel, Hex, Claude
+- SQL, Python (Pandas), BigQuery, Databricks, Postgres, Tableau, Looker, Microsoft Excel, Hex, Claude
 
 ### 🎓 Education
 University of Notre Dame, Economics & Spanish
