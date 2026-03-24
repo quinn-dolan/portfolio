@@ -17,4 +17,4 @@ Associate Director, Data Analytics @ Modifly
 ### 🗂️ Projects
 - [Spotify EDA & Data Visualization](https://github.com/quinn-dolan/portfolio/blob/a989c4d5254d3127c202670455f047d143ca2a3a/assets/docs/Spotify%20Dashboard%20-%20Looker.pdf)
 - Python Script to Clean and Merge Large Email Lists
-- Comprehensive Digital Audit Presentation
+- [Comprehensive Digital Audit Presentation](https://github.com/quinn-dolan/portfolio/blob/d38a956beda1eb00b264c1e6774b57b6999e0ad9/assets/docs/Digital%20Audit%20-%20Canva.pdf)
