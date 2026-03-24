@@ -9,6 +9,10 @@ University of Notre Dame, Economics & Spanish
 
 ### 👨‍💻 Current Role
 Associate Director, Data Analytics @ Modifly
+- Lift/Incrementality Test Design
+- Measurement Frameworks & Implementation
+- ETL Pipelines in Python
+- Dashboards
 
 ### 🗂️ Projects
 - Spotify EDA & Data Visualization
