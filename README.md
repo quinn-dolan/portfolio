@@ -9,10 +9,11 @@ University of Notre Dame, Economics & Spanish
 
 ### 👨‍💻 Current Role
 Associate Director, Data Analytics @ Modifly
+- Dashboards & Data Visualization
 - Lift/Incrementality Test Design
 - Measurement Frameworks & Implementation
 - ETL Pipelines in Python
-- Dashboards & Data Visualization
+
 
 ### 🗂️ Projects
 - [Spotify EDA & Data Visualization](https://github.com/quinn-dolan/portfolio/blob/a989c4d5254d3127c202670455f047d143ca2a3a/assets/docs/Spotify%20Dashboard%20-%20Looker.pdf)
