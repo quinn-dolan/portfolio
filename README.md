@@ -7,7 +7,7 @@
 University of Notre Dame, Economics & Spanish
 - Relevant Coursework: Econometrics, Statistics for Economics, Macroeconomic & Microeconomic Theory
 
-### 👨‍💻 Work Experience
+### 👨‍💻 Current Role
 Associate Director, Data Analytics @ Modifly
 
 ### 🗂️ Projects
