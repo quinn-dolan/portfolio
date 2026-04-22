@@ -12,7 +12,7 @@ Associate Director, Data Analytics @ Modifly
 - Dashboards & Data Visualization
 - Lift/Incrementality Test Design
 - Measurement Frameworks & Implementation
-- ETL Pipelines in Python
+- ETL Pipelines
 
 
 ### 🗂️ Projects
