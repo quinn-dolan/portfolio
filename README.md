@@ -1,7 +1,9 @@
 # Data Analyst, Cyclist, Coffee Enthusiast
 
 ### 📊 Skills
-- SQL, Python (Pandas), BigQuery, Databricks, Postgres, Tableau, Looker, Microsoft Excel, Hex, Claude
+- Attribution, Geo Lift Testing, Brand Lift Studies, Marketing Mix Modeling (MMM), A/B Testing
+- Google Analytics (GA4), Google Tag Manager, Looker, Supermetrics
+- Microsoft Excel, SQL, Python (Pandas), BigQuery, Databricks, Postgres, Hex, Claude
 
 ### 🎓 Education
 University of Notre Dame, Economics & Spanish
