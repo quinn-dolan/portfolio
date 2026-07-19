@@ -28,4 +28,4 @@ It also isolates which lever moves revenue more: a 10% increase in spend, or a 0
 
 Every blue cell is an editable input, every black cell is a calculation, and green cells link to another tab — change an assumption on the Assumptions tab and everything downstream recalculates. Tabs: Overview, Assumptions, H2 2026 Forecast, Levers & Elasticity, Channel Scorecard, Pressure Test, Monthly Data, Blended Summary, Unit Economics & Calendar, and Data Dictionary.
 
-A copy of the workbook (`eCommerce_Forecast_Quinn_portfolio.xlsx`) is included in this repo for anyone who'd rather open it directly than view it in Google Sheets.
+A copy of the workbook (`eCommerce_Forecast_Quinn.xlsx`) is included in this repo for anyone who'd rather open it directly than view it in Google Sheets.
