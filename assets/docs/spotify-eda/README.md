@@ -2,7 +2,7 @@
 
 A Looker Studio dashboard built on my own Spotify Extended Streaming History — a year of raw play-by-play data turned into an interactive view of what I actually listen to, and when.
 
-**[View the dashboard →](INSERT_GOOGLE_DRIVE_VIEW_LINK_HERE)**
+**[View the dashboard →](https://drive.google.com/file/d/1BpKccC3qK1_FTypWOSV0JM7mKZf6aZr7/view?usp=sharing)**
 
 ![Spotify EDA Screenshot](spotify-eda-screenshot.png)
 
