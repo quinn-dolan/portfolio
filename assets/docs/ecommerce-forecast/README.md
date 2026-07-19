@@ -2,7 +2,7 @@
 
 A six-month revenue forecast and media-mix model built for a single-product consumer hardware brand — a device that helps people break phone-addiction habits by locking distracting apps. The brand sells DTC through its own store and, since March 2026, on Amazon, with paid media running across Meta, Google, TikTok, and Amazon.
 
-**[View the live model →](INSERT_GOOGLE_SHEET_VIEW_LINK_HERE)**
+**[View the live model →](https://docs.google.com/spreadsheets/d/14HOKQ8y7Oct8YyJlQbHpxiA6itmTQECudupi2fBNATc/edit?usp=sharing)**
 
 ![eCommerce Forecast Screenshot](ecommerce-forecast-screenshot.png)
 
