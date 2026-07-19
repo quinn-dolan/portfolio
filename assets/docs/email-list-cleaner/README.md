@@ -5,6 +5,8 @@ A Python script that takes a batch of Excel files with inconsistent column namin
 
 **[Open in Colab →](https://colab.research.google.com/github/quinn-dolan/portfolio/blob/main/assets/docs/combine_large_email_lists.ipynb)**
 
+![Colab Notebook Screenshot](colab-notebook-screenshot.png)
+
 ## What it does
 
 Given a list of Excel files, the script first previews just the header row of each one (`nrows=0`) so it can confirm which email column name each file uses — `email`, `email_address`, or others — without loading any actual data into memory. That matters once files get large; reading full sheets just to check column names wastes time and memory.
