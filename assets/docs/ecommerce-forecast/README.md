@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30168292/README.md)
 # eCommerce Revenue Forecast & Media Mix Model
 
 A six-month revenue forecast and media-mix model built for a single-product consumer hardware brand — a device that helps people break phone-addiction habits by locking distracting apps. The brand sells DTC through its own store and, since March 2026, on Amazon, with paid media running across Meta, Google, TikTok, and Amazon.
