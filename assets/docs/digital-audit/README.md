@@ -5,6 +5,8 @@ A comprehensive digital audit for Weber Workshops, a specialty coffee equipment 
 
 **[View the presentation →](https://drive.google.com/file/d/1WZuzrYcAu_Q9GAi1R8aVmeEwDdywtj62/view?usp=sharing)**
 
+![Overview tab](assets/images/digital-audit-screenshot.png)
+
 ## What's in it
 
 **Competitive benchmarking.** Domain authority, linking domains, and ranking keywords for Weber Workshops against category competitors (Fellow, La Marzocco, Mahlkönig, Niche Coffee) to size the gap and flag who's investing in content (most competitors run an active blog; Weber didn't at the time).
