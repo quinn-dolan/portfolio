@@ -5,7 +5,7 @@ A comprehensive digital audit for Weber Workshops, a specialty coffee equipment 
 
 **[View the presentation →](https://drive.google.com/file/d/1WZuzrYcAu_Q9GAi1R8aVmeEwDdywtj62/view?usp=sharing)**
 
-![Overview tab](assets/images/digital-audit-screenshot.png)
+![Digital Audit Screenshot](digital-audit-screenshot.png)
 
 ## What's in it
 
