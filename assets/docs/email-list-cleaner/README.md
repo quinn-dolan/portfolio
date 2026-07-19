@@ -1,4 +1,3 @@
-[README-email-list-cleaner.md](https://github.com/user-attachments/files/30168259/README-email-list-cleaner.md)
 # Email List Combiner & Deduplicator
 
 A Python script that takes a batch of Excel files with inconsistent column naming — the kind of mess you get combining lead lists from different tools or teams — and outputs a single clean, deduplicated CSV of email addresses.
