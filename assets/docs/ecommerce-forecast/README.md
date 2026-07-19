@@ -5,7 +5,7 @@ A six-month revenue forecast and media-mix model built for a single-product cons
 
 **[View the live model →](INSERT_GOOGLE_SHEET_VIEW_LINK_HERE)**
 
-![Overview tab](INSERT_SCREENSHOT_PATH.png)
+![eCommerce Forecast Screenshot](ecommerce-forecast-screenshot.png)
 
 ## What the model does
 
