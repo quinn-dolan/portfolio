@@ -4,6 +4,8 @@ A Looker Studio dashboard built on my own Spotify Extended Streaming History —
 
 **[View the dashboard →](INSERT_GOOGLE_DRIVE_VIEW_LINK_HERE)**
 
+![Spotify EDA Screenshot](spotify-eda-screenshot.png)
+
 ## What's in it
 
 **Overview.** Total minutes and tracks played over the trailing 365 days, plus listening broken down by day of week and hour of day (CST) to surface daily rhythm — mornings, commute windows, evening wind-down.
