@@ -2,7 +2,7 @@
 
 A comprehensive digital audit for Weber Workshops, a specialty coffee equipment brand, covering SEO, paid media, organic social, and reporting opportunities — built around a simple frame: revenue = traffic × conversion rate × AOV, and every recommendation ties back to moving one of those three levers.
 
-**[View the presentation →](https://drive.google.com/file/d/1WZuzrYcAu_Q9GAi1R8aVmeEwDdywtj62/view?usp=sharing)**
+**[View the presentation →](https://drive.google.com/file/d/1y9370ONDfsTiytlqlUOZLBvyF66Z7wFD/view?usp=sharing)**
 
 ![Digital Audit Screenshot](digital-audit-screenshot.png)
 
