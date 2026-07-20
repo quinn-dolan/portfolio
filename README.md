@@ -11,13 +11,13 @@
 - [Python Script to Clean and Merge Large Email Lists](assets/docs/email-list-cleaner/README.md)
 - [Comprehensive Digital Audit Presentation](assets/docs/digital-audit/README.md)
 
-### 🎓 Education
-University of Notre Dame, Economics & Spanish
-- Relevant Coursework: Econometrics, Statistics for Economics, Macroeconomic & Microeconomic Theory
-
 ### 👨‍💻 Current Role
 Associate Director, Data Analytics @ Modifly
 - Dashboards & Data Visualization
 - Lift/Incrementality Test Design
 - Measurement Frameworks & Implementation
 - ETL Pipelines
+
+### 🎓 Education
+University of Notre Dame, Economics & Spanish
+- Relevant Coursework: Econometrics, Statistics for Economics, Macroeconomic & Microeconomic Theory
