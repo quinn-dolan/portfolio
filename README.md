@@ -3,7 +3,7 @@
 ### 🗂️ Projects & Work Samples
 - [eCommerce Forecast & Model](assets/docs/ecommerce-forecast/README.md)
 - [Spotify EDA & Data Visualization](assets/docs/spotify-eda/README.md)
-- [Python Script to Clean and Merge Large Email Lists](assets/docs/email-list-cleaner/README.md)
+- [Python Script to Clean and Merge Email Lists](assets/docs/email-list-cleaner/README.md)
 - [Comprehensive Digital Audit Presentation](assets/docs/digital-audit/README.md)
 
 ### 📊 Skills
