@@ -1,4 +1,4 @@
-# Digital Audit — Weber Workshops
+# Digital Audit: Weber Workshops
 
 A comprehensive digital audit for Weber Workshops, a specialty coffee equipment brand, covering SEO, paid media, organic social, and reporting opportunities — built around a simple frame: revenue = traffic × conversion rate × AOV, and every recommendation ties back to moving one of those three levers.
 
