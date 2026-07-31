@@ -1,4 +1,4 @@
-# Spotify Listening Habits — EDA & Dashboard
+# Spotify Listening Habits: EDA & Dashboard
 
 A Looker Studio dashboard built on my own Spotify Extended Streaming History — a year of raw play-by-play data turned into an interactive view of what I actually listen to, and when.
 
